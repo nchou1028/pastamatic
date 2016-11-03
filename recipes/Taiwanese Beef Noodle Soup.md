@@ -8,7 +8,7 @@ By Tom
 - 2 pounds boneless beef shank or chuck, cut into 1-inch cubes
 - 6 large slices fresh ginger root
 - 6 cloves garlic, smashed
--	2-3 small red chilies, such as Thai chilies, roughly chopped
+-	2~3 small red chilies, such as Thai chilies, roughly chopped
 - 1 large plum tomato, roughly chopped
 - 2 tablespoons sugar
 - 1 tablespoon Sichuan chili bean sauce (doubanjiang)
