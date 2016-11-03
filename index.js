@@ -11,12 +11,11 @@ mb.on("ready", () => {
 //   mb.window.openDevTools();
 // });
 
-ipcMain.on("message", (event, arg) => {
-  console.log(arg);
+ipcMain.on("get-recipe", (event, arg) => {
   getRandomRecipe()
-    .then(text => event.sender.send("message", text))
+    .then(text => event.sender.send("recipe", text))
     .catch(err => {
       console.log(err);
-      event.sender.send("message", `Oops, there was an error: ${err}`);
+      event.sender.send("recipe", `Oops, there was an error: ${err}`);
     });
 });

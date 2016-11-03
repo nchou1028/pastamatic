@@ -84,9 +84,9 @@
       const buttonEl = document.getElementById("button");
       const containerEl = document.getElementById("container");
       buttonEl.addEventListener("click", () => {
-        ipcRenderer.send("message", "ping");
+        ipcRenderer.send("get-recipe");
       });
-      ipcRenderer.on("message", (event, arg) => {
+      ipcRenderer.on("recipe", (event, arg) => {
         buttonContainer.classList.remove("centered");
         container.hidden = false;
         container.innerHTML = arg;
