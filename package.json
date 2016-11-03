@@ -1,0 +1,20 @@
+{
+  "name": "pastamatic",
+  "version": "0.0.0",
+  "description": "A menubar app to give you pasta recipes",
+  "license": "MPL-2.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron .",
+    "package": "electron-packager . pastamatic"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "1.4.5"
+  },
+  "dependencies": {
+    "markdown": "0.5.0",
+    "menubar": "5.1.0"
+  }
+}
