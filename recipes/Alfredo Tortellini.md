@@ -1,6 +1,6 @@
 # Alfredo Tortellini with Chicken
 Difficulty: Easy!
-![Pasta](http://allrecipes.com/recipe/233424/easy-chicken-pasta-alfredo/?internalSource=amp&referringContentType=amp%20recipe&clickId=amp_main_image)
+![Pasta](http://images.media-allrecipes.com/userphotos/560x315/1105549.jpg)
 
 
 ## Ingredients
