@@ -6,8 +6,8 @@ Author: Kate Hudson <@k88hudson>
 - Spaghetti
 - Tomato sauce
 - Shrimps
- -Garlic
- -Oil 
+- Garlic
+- Oil 
 
 # Method
 
