@@ -1,8 +1,10 @@
 # A Traditional Taiwanese Beef Noodle Soup
 By Tom
 
-######Yield: serves 6 to 8
-######Total Time: 3 hours
+##Yield
+serves 6 to 8
+##Total Time
+3 hours
 
 ![BNS](http://www.seriouseats.com/recipes/assets_c/2013/12/20131219-taiwan-eats-beef-noodle-soup-finished-thumb-625xauto-374061.jpg)
 
