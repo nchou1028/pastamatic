@@ -1,6 +1,6 @@
 #Japanese Cold Noodles
 
-
+![Japanese Cold Noodles](http://www.noobcook.com/wp-content/uploads/2012/03/zaru_soba.jpg)
 
 ##INGREDIENTS
 
@@ -33,3 +33,5 @@
 ###To serve somen:
 
 - Divide noodles among 6 bowls filled with ice and cold water. Divide dipping sauce among 6 small bowls and serve with accompaniments for flavoring it, then dip each mouthful of noodles in sauce
+
+#ENJOY🍜🍜🍜
